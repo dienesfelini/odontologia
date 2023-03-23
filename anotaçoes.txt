@@ -1,0 +1,19 @@
+Itens necessários:
+-Navbar com 3 botões: Inicio, serviços e contato
+-Slide de fotos: 4 minímo
+-História: (texto e foto do lado)
+-Serviços: 6 cards
+-Formulário
+
+-Tamanhos em pixels:
+Logo: 80x80
+Slide de fotos: 1400x500
+Foto do lado do texto: 600x400
+Cards: 1280x720
+Primeira foto dentro do card: 1920x500
+
+Nav
+Container
+Cada item deve ter uma logo
+cada item uma row
+
